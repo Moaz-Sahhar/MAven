@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5a1fe22-65a3-44b3-8fa7-55afe4ca6607" name="Changes" comment="add dependencies" />
+    <list default="true" id="d5a1fe22-65a3-44b3-8fa7-55afe4ca6607" name="Changes" comment="add dependencies 2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,29 +32,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PITA.Main" />
+}]]></component>
+  <component name="RunManager" selected="TestNG.SampleTest.testMap">
+    <configuration name="SampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Test Sample First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PITA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.testFalse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test Sample First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="testFalse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.testMap" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test Sample First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="testMap" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.testPrint" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test Sample First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="testPrint" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.testType" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test Sample First" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="testType" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.SampleTest.testMap" />
+        <item itemvalue="TestNG.SampleTest" />
+        <item itemvalue="TestNG.SampleTest.testFalse" />
+        <item itemvalue="TestNG.SampleTest.testPrint" />
+        <item itemvalue="TestNG.SampleTest.testType" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +134,14 @@
       <option name="project" value="LOCAL؜" />
       <updated>1666709934828</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL؜-٠٠٠٠٣" summary="add dependencies 2">
+      <created>1666710219402</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1666710219402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +157,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dependencies" />
+    <MESSAGE value="add dependencies 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add dependencies 2" />
   </component>
 </project>
